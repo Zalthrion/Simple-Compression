@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SimpleCompression",
+  "name": "Simple Compression",
+  "description": "Save up some space by compressing some blocks!",
+  "version": "0.1.0",
+  "mcversion": "1.6.4",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Zalthrion"],
+  "credits": "Zalthrion",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
