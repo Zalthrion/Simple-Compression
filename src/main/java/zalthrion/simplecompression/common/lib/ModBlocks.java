@@ -38,7 +38,7 @@ public class ModBlocks {
 	
 	public static final Block Compressed_LapisBlock = new Compressed_LapisBlock(3410).setHardness(3.0F).setStepSound(Block.soundStoneFootstep).setUnlocalizedName("Compressed_LapisBlock").setCreativeTab(SimpleCompression.Simple_Compression).setResistance(5.0F).setTextureName("lapis_block");
 	
-	public static final Block Compressed_Sandstone = new Compressed_Sandstone(3411).setHardness(0.8F).setStepSound(Block.soundStoneFootstep).setUnlocalizedName("Compressed_Stone").setCreativeTab(SimpleCompression.Simple_Compression).setResistance(12.0F);
+	public static final Block Compressed_Sandstone = new Compressed_Sandstone(3411).setHardness(0.8F).setStepSound(Block.soundStoneFootstep).setUnlocalizedName("Compressed_Sandstone").setCreativeTab(SimpleCompression.Simple_Compression).setResistance(12.0F);
 	
 	public static final Block Compressed_RedstoneBlock = new Compressed_RedstoneBlock(3412).setHardness(5.0F).setStepSound(Block.soundMetalFootstep).setUnlocalizedName("Compressed_RedstoneBlock").setCreativeTab(SimpleCompression.Simple_Compression).setResistance(10.0F).setTextureName("redstone_block");
 	
